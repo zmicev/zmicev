@@ -7,6 +7,6 @@
 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 
 📫 How to reach me:
-   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zdravko-micev-834532196/)
+   - LinkedIn: [Zdravko Micev](https://www.linkedin.com/in/zdravko-micev-834532196/)
 
 Feel free to connect!
